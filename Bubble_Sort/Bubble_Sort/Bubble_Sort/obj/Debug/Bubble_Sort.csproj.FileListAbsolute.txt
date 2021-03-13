@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.exe.config
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.exe
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\bin\Debug\Bubble_Sort.pdb
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.fBurbuja.resources
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.exe
+C:\Users\USUARIO\Desktop\Bubble_Sort\Bubble_Sort\Bubble_Sort\obj\Debug\Bubble_Sort.pdb
